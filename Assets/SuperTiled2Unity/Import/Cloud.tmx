@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="100" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="17">
+ <tileset firstgid="1" source="Cloud.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmesKwjAMhQtef6rgBS+4iZf3f0NPwUAI2I12LM3IgY9YqSFZc+ZgIZRrDw7gCE4D5NMU9WK5jzO4gCu4KddSKurFch930IAWPHRLKRb1Yvk8pugPy3Pl/qhL7o+65P6oS5b9EZ9v+bOt+0NX8frzGXJ/jKcN2IId+y5efz5D7g9duT/G0RKswLpjn/RHXLs/9CT9EddNqGeucqTtjxmYg0XGb90fdcn9UZem6A9+HpGSdyH8XYqMMl9qb99Idcu1tbni4ver2EtJT/xsZZT5Unv7Rqqbz9OUzqMNZf8lPJeMMl9qb24kLN+vnuAF3j/o86cw17/I6dqbG3NqH0Jf5YQiPQ==
+  </data>
+ </layer>
+ <objectgroup id="3" name="Collision mask">
+  <object id="3" x="272" y="0" width="64" height="320"/>
+  <object id="6" x="704" y="304" width="48" height="16"/>
+  <object id="7" x="752" y="256" width="384" height="64"/>
+  <object id="8" x="1024" y="112" width="32" height="144"/>
+  <object id="9" x="1088" y="0" width="48" height="256"/>
+  <object id="10" x="784" y="217" width="48" height="7"/>
+  <object id="11" x="864" y="185" width="48" height="7"/>
+  <object id="12" x="944" y="154" width="48" height="6"/>
+  <object id="14" x="336" y="256" width="48" height="64"/>
+  <object id="16" x="576" y="256" width="128" height="64"/>
+ </objectgroup>
+</map>
